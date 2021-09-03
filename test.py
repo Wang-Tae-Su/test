@@ -1,1 +1,2 @@
 print("github")
+pritn("hello")
